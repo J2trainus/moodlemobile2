@@ -2,7 +2,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="3.3.1">
     <name>J2Train</name>
     <description>
-        Moodle Mobile official app
+        J2Train LMS
     </description>
     <author href="http://J2Train.us" email="admin@j2train.us">
         Moodle Mobile team
